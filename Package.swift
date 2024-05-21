@@ -13,10 +13,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(
-            url: "https://github.com/DainSong515/NMapsGeometry",
-            .branchItem("main")
-        )
+        .package(url: "https://github.com/DainSong515/NMapsGeometry", .exactItem("1.0.2"))
     ],
     targets: [
         .binaryTarget(
