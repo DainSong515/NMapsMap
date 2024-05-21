@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NMapsGeometry",
+        "repositoryURL": "https://github.com/DainSong515/NMapsGeometry",
+        "state": {
+          "branch": "main",
+          "revision": "d76a0d25775e1553649806e912b951d8d6f76bf1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
